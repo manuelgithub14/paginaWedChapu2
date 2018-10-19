@@ -1,0 +1,30 @@
+*{margin:0px;padding:0px}
+#contenido{margin:auto;height:100%;width:800px}
+
+body{background-color:aqua;font-style:arial;font-size:12px}
+
+header{color:green;font-size:30px;height:80px;width:800px;background-image:url(logo.jpg)}
+
+nav{height:80px;width:800px;background-color:black;color:white;}
+#horizontal{color:white;width:470px;position:relative;top:30px;text-align:center;margin-left:150px;border:2px solid white;}
+#horizontal a:link{padding-left:20px;padding-right:20px;text-decoration:none;font-style:arial;color:white;font-size:12px;border-right:2px solid white;}
+#horizontal a:hover{background-color:lime;}
+#horizontal a:visited{color:white}
+
+aside{width:300px;height:360px;background-color:#AAAAAA;color:brown;font-size:11px;float:left}
+h2{background-color:white}
+#vertical{width:180px;border:0.9px solid #FFF;margin-left:30px;margin-top:30px;}
+#vertical a:link{display:block;text-decoration:none;padding-bottom:0em;padding-left:1.5;padding-right:2em;padding-top:2em;color:#333;background-color:#F7FE2E}
+#vertical a:hover{background-color:#58FA58}
+
+#lista{margin-left:40px;margin-top:15px;color:aqua}
+#lista ul{margin-left:50px}
+
+section{background-color:gray;font-size:11px;height:360px;width:500px;float:left}
+h3{background-color:aqua;color:brown}
+
+table{margin:20px;background-color:pink;border:1px solid red;height:250px;width:300px;color:red}
+
+
+#izquierda{clear:both;background-color:black;float:left;color:white;font-style:Comic Sans Ms;width:500px;height:80px}
+#derecha{background-color:silver;float:right;color:yellow;font-style:Comic Sans Ms;width:300px;height:80px;text-align:right}
